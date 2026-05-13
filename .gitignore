@@ -1,0 +1,10 @@
+ 
+# Raw data files - licensed, do not distribute 
+*.csv 
+*.parquet.bak 
+# Python artifacts 
+__pycache__/ 
+.ipynb_checkpoints/ 
+# Local environment 
+.env 
+*.pyc 
