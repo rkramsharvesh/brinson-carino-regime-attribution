@@ -42,7 +42,7 @@ This project uses licensed data that cannot be redistributed. You will need:
 - Ken French Data Library (FF12 returns, FF5 factors, STREV factor) - free
 - FRED (VIX daily, NBER recession indicator) - fetched automatically in code
 
-Once you have the data files, update the ROOT variable in Notebook 1 Cell 1 to
+Once you have the data files, update the ROOT variables in Notebook 1, 2, and 3 Cell 1 to
 point to your local folder.
 
 ## How to Run
