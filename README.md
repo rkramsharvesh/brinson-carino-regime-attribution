@@ -39,8 +39,8 @@ This project uses licensed data that cannot be redistributed. You will need:
 - CRSP Monthly Stock File via WRDS (CIZ V2 format, 1990-2024)
 - Compustat Annual Fundamentals via WRDS (1989-2026)
 - CRSP-Compustat Linking Table via WRDS
-- Ken French Data Library (FF12 returns, FF5 factors, STREV factor) — free
-- FRED (VIX daily, NBER recession indicator) — fetched automatically in code
+- Ken French Data Library (FF12 returns, FF5 factors, STREV factor) - free
+- FRED (VIX daily, NBER recession indicator) - fetched automatically in code
 
 Once you have the data files, update the ROOT variable in Notebook 1 Cell 1 to
 point to your local folder.
