@@ -18,6 +18,9 @@ alpha (2004-2024), concentrated in Transitional and Bear regime months.
 Momentum-based allocation contributes near-zero alpha in the same period,
 consistent with Ehsani and Linnainmaa (2022).
 
+# The Full writeup and findings are available on my Substack page 
+https://ramsharvesh.substack.com/p/quality-selection-earns-defensive
+
 ## Repository Structure
 
 ```
